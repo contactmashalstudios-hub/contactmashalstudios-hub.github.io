@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   // ⚠️ GitHub Pages ke liye base repo name hota hai
   // Repo: mashalstudios.github.io
-  base: '/mashalstudios.github.io/',
+  base: './',
 
   plugins: [react()],
 
