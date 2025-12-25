@@ -23,7 +23,7 @@ const Hero: React.FC<HeroProps> = ({ onContactClick }) => {
               
               <div className="relative z-10 aspect-square sm:aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-[0_30px_60px_-15px_rgba(0,0,0,0.2)] bg-zinc-100 border-[8px] lg:border-[12px] border-white animate-float">
                 <img
-                  src="images/my image.png"
+                  src="images/myimage.png"
                   alt="Mashal - Website & Meta Ads Expert"
                   className="w-full h-full object-cover object-center transition-transform duration-1000 group-hover:scale-105"
                 />
